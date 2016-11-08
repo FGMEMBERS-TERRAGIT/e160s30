@@ -1,0 +1,12 @@
+OBJECT_SHARED Models/Airport/ndb.ac 166.473083 -22.269861 -0.01 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 166.473167 -22.315389 6.06 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 166.25 -22.355 -0.22 57.08
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 166.33 -22.2717 -4.44 275.56
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 166.423 -22.2883 -0.01 87.51
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 166.263 -22.2967 -4.63 282.32
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 166.292 -22.325 -6.14 197.66
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 166.325 -22.295 -5.92 22.53
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 166.422 -22.2883 -0.01 101.03
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 166.427 -22.285 -0.01 57.73
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 166.43 -22.32 -1.53 105
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac 166.43 -22.28 0 90.65
